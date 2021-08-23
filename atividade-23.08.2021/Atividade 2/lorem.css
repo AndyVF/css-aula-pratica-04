@@ -1,0 +1,21 @@
+div {
+    display: inline-block;
+   
+}
+
+.container1 {
+    width: 400px;
+    background: sienna;
+    color: white;
+    font-size: 11px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container2 {
+    width: 700px;
+    background:seagreen;
+    color: white;
+    text-align: left;
+    font-size: 12px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

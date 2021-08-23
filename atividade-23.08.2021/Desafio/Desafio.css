@@ -1,0 +1,51 @@
+.main {
+    width: 60%;
+    height: 450px;
+    background: darkgray;
+    margin-left: auto;
+    margin-right: auto ;
+}
+
+.container1 {
+    height: 400px;
+    width: 300px;
+    background: red;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.container2 {
+    height: 50px;
+    width: 300px;
+    background: blue;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20rem;
+}
+
+.container3 {
+    background: chartreuse;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    margin-left: 20%;
+}
+
+.container4 {
+    background: blueviolet;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin-left: 15%;
+} 
+
+.container5 {
+    background: peru;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: 50px;
+}
+ 
